@@ -26,7 +26,7 @@ Arcanic provides lightweight, zero-dependency libraries that implement modern ar
 ## 🛠️ Tech Stack
 
 **Languages:** C#, TypeScript   
-**Frameworks:** .NET Core, ASP.NET Core, .NET Aspire, Blazor, Angular
+**Frameworks:** .NET Core, ASP.NET Core, .NET Aspire, Blazor, Angular   
 **Databases:** SQL Server, Azure Cosmos DB, MongoDB, MySQL  
 **Cloud & DevOps:** Azure, AWS, Docker, Azure DevOps, GitHub Actions, Bicep  
 **Architecture:** Clean Architecture, Microservices, CQRS, REST API, MVC  
