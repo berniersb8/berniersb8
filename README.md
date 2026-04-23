@@ -1,6 +1,6 @@
 # Hi, I'm Sébastien Bernier 👋
 
-**.NET Tech Lead** based in Québec, Canada — passionate about software architecture, clean code, and building tools that make developers' lives easier.
+**Sofware developer** based in Québec, Canada — passionate about software architecture, clean code, and building tools that make developers' lives easier.
 
 With **~10 years of experience** in IT, I specialize in designing and delivering robust, scalable applications using the **.NET ecosystem**. I've led technical teams, defined architectures, mentored developers, and driven projects across industries including insurance, government, and healthcare.
 
